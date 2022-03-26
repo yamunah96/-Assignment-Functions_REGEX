@@ -1,5 +1,6 @@
-# -Assignment-Functions_REGEX
+# Assignment-Functions_REGEX
 Create two functions which will help us to find the LCM & GCF(Greatest Common Factor) of any two numbers.
+
 GCF Common Factor(GCF): The greatest common Factor to any two or more than two integer numbers is known as GCF or HCF 
 
 Example: GCF of 12 and 18 is 6
